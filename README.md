@@ -7,4 +7,5 @@
 |Week 3|2021.11.25| 1. Cross-Domain Self-supervised Learning <br> 2. From Page Rank to PPNP|
 |Week 4|2021.12.1|Contrastive Label Disambiguation for Partial Label Learning|
 |Week 5|2021.12.8|Out-of-Distribution Data Problem in Explainable Artificial Intelligence (XAI) <br> Adversarial Cross-Modal Retrieval|
-|Week 6|2021.12.15|Reversible GANs for Memory-efficient Image-to-Image Translation <br> Revisiting learning with noisy labels benchmarks|
+|Week 6|2021.12.15|1.Reversible GANs for Memory-efficient Image-to-Image Translation <br> Revisiting learning with noisy labels benchmarks <br> 2. Revisiting learning with noisy labels benchmarks|
+|Week 7|2021.12.22| Cycle Self-Training for Domain Adaptation|
